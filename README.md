@@ -1,4 +1,4 @@
-# React Simple Investment Calculator
+# React Simple Quizz App
 
 An interactive single-page React application for taking quizzes with dynamically shuffled answers and real-time feedback. This project showcases React fundamentals, including component-based architecture, state management, and dynamic rendering.
 
